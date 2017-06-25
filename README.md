@@ -1,2 +1,3 @@
 # learngit
-test git 
+test git
+git add github
