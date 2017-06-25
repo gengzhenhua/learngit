@@ -5,3 +5,5 @@ git add github b
 haha2
 haha1
 hahaha:
+
+no fast forward
